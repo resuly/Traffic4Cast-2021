@@ -1,5 +1,5 @@
 # Traffic4cast 2021
-This repository includes 3DResNets and SparseUNet used for NeurIPS Traffic4Cast Competition 2021. A short paper that describes all details will be released shortly.
+This repository includes 3DResNets and SparseUNet used for NeurIPS Traffic4Cast Competition 2021. A short paper that describes all details can be found at [http://arxiv.org/abs/2111.05990](http://arxiv.org/abs/2111.05990).
 
 ## Requirements
 The conda environment with PyTorch1.9.1 and cuda11.1 is recommended.
